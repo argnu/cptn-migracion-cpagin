@@ -1,0 +1,24 @@
+{
+  "name": "cptn-migracion-cpagin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/argnu/cptn-migracion-cpagin.git"
+  },
+  "author": "",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/argnu/cptn-migracion-cpagin/issues"
+  },
+  "homepage": "https://github.com/argnu/cptn-migracion-cpagin#readme",
+  "dependencies": {
+    "mssql": "^4.1.0",
+    "pg": "^7.4.1",
+    "sql": "^0.78.0"
+  }
+}
